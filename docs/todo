@@ -1,0 +1,5 @@
+1. Plugin System
+    a. InputServer (file, another stream, disc, etc)
+    b. OutputServer (stream w/ socket w/ different protocols [RTP, RTSP], speakers)
+    c. ControlServer (pause, start, stop, skip, change InputServer)
+    d. AuthServer (Allow certain users remote access) 
